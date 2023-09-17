@@ -1,7 +1,7 @@
 package com.example.aether
 
 /**
- * Aether - This app was supposed to replicate a basic social media app where
+ * Aether - This app was supposed to replicate a basic photo sharing (Like Instagram) social media app where
  * users could share their dreams and accompany it with a photo. The photo could be
  * just where they woke up in a sweat or if they have a drawing from their image
  * gallery that they can upload to the feed.
