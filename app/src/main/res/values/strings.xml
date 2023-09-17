@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aether</string>
+    <string name="textsize">Text Size</string>
+    <string name="textsizesum">Change the size of the text</string>
+    <string name="lunyqu">\"Where all of your truth comes dreams.\" - Luny</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="ath">Aether</string>
+    <string name="latest_posts">Latest Posts</string>
+    <string name="capture_dream">Capture Dream</string>
+    <string name="choose_dream">Choose Dream</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="what_happened_in_your_dream">What happened in your dream?</string>
+    <string name="what_is_the_type_of_your_dream">What is the type of your dream?</string>
+    <string name="when_did_it_happen">When did it happen?</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="usertextview">TextView</string>
+    <string name="desctextview">TextView</string>
+    <string name="typetextview">TextView</string>
+    <string name="timetextview">TextView</string>
+    <string name="line">------</string>
+    <string name="choose_from_device">Choose from Device</string>
+    <string name="success">Yay! We have your Dream</string>
+    <string name="failure">Sorry something went wrong</string>
+    <string name="loginerr">LOGIN ERROR</string>
+
+
+
+</resources>
